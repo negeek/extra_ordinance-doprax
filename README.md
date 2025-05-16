@@ -1,7 +1,6 @@
 # Extra Ordinance
 
-**Extra Ordinance** is a Minetest game where you have several weapons to choose from. You can dig through the earth. So can they.
----
+**Extra Ordinance** is a Minetest game where you have several weapons to chose from. You can dig through the earth. So can they.
 
 ## Installation
 
